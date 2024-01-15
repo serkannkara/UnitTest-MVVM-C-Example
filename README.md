@@ -23,10 +23,6 @@ The project is organized as follows:
 2. Navigate to the `UnitTest_MVVM_C_ExampleTests` folder.
 3. Run the command `xcodebuild test -scheme UnitTest_MVVM_C_ExampleTests -destination 'platform=iOS Simulator,name=iPhone 13'` to start the unit tests.
 
-## Contributions
-
-- We welcome any contributions and feedback. If you find a bug or want to add a feature, please open an issue or submit a pull request.
-
 # Requirements
 Xcode Version 14.3
 iOS Version 15.0+
